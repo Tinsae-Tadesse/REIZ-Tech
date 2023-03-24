@@ -36,10 +36,10 @@ namespace REIZ_Tech
                     // Calculate how much degrees the minute hand has moved from 00
                     float minutesInDegrees = minutes * ONE_MINUTE_IN_DEGREES;
                     // Calculate the angle difference between the hour and minute hands
-                    float angleDifference = Math.Abs(hourInDegrees - minutesInDegrees);
-                    float remainingAngle = 360 - angleDifference;
+                    float degreeDifference = Math.Abs(hourInDegrees - minutesInDegrees);
+                    float remainingDegree = 360 - degreeDifference;
                     // Determine the lesser angle
-                    float lesserAngle = angleDifference < remainingAngle ? angleDifference:remainingAngle;
+                    float lesserAngle = degreeDifference < remainingDegree ? degreeDifference:remainingDegree;
                     Console.WriteLine("The lesser angle between {0} and {1} is {2} degrees.", hours, minutes, lesserAngle);
                 }
                 else
