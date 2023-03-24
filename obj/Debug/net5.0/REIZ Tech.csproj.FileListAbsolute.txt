@@ -1,0 +1,16 @@
+C:\Users\KitKat\Desktop\REIZ Tech\bin\Debug\net5.0\REIZ Tech.exe
+C:\Users\KitKat\Desktop\REIZ Tech\bin\Debug\net5.0\REIZ Tech.deps.json
+C:\Users\KitKat\Desktop\REIZ Tech\bin\Debug\net5.0\REIZ Tech.runtimeconfig.json
+C:\Users\KitKat\Desktop\REIZ Tech\bin\Debug\net5.0\REIZ Tech.runtimeconfig.dev.json
+C:\Users\KitKat\Desktop\REIZ Tech\bin\Debug\net5.0\REIZ Tech.dll
+C:\Users\KitKat\Desktop\REIZ Tech\bin\Debug\net5.0\ref\REIZ Tech.dll
+C:\Users\KitKat\Desktop\REIZ Tech\bin\Debug\net5.0\REIZ Tech.pdb
+C:\Users\KitKat\Desktop\REIZ Tech\obj\Debug\net5.0\REIZ Tech.csproj.AssemblyReference.cache
+C:\Users\KitKat\Desktop\REIZ Tech\obj\Debug\net5.0\REIZ Tech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KitKat\Desktop\REIZ Tech\obj\Debug\net5.0\REIZ Tech.AssemblyInfoInputs.cache
+C:\Users\KitKat\Desktop\REIZ Tech\obj\Debug\net5.0\REIZ Tech.AssemblyInfo.cs
+C:\Users\KitKat\Desktop\REIZ Tech\obj\Debug\net5.0\REIZ Tech.csproj.CoreCompileInputs.cache
+C:\Users\KitKat\Desktop\REIZ Tech\obj\Debug\net5.0\REIZ Tech.dll
+C:\Users\KitKat\Desktop\REIZ Tech\obj\Debug\net5.0\ref\REIZ Tech.dll
+C:\Users\KitKat\Desktop\REIZ Tech\obj\Debug\net5.0\REIZ Tech.pdb
+C:\Users\KitKat\Desktop\REIZ Tech\obj\Debug\net5.0\REIZ Tech.genruntimeconfig.cache

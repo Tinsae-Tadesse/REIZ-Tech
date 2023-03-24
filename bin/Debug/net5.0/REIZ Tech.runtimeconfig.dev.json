@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\KitKat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\KitKat\\.nuget\\packages"
+    ]
+  }
+}
