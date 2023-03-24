@@ -44,11 +44,13 @@ namespace REIZ_Tech
                 }
                 else
                 {
+                    // Show error message
                     Console.WriteLine("Minutes must be a number in the range (1-59)"); 
                 }
             }
             else
-            {                
+            {   
+                // Show error message         
                 Console.WriteLine("Hour must be a number in the range (1-12)"); 
             }
         }
