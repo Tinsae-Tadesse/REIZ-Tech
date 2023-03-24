@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KitKat\\Desktop\\REIZ Tech\\REIZ Tech.csproj": {}
+    "C:\\Users\\KitKat\\Desktop\\REIZ Tech\\Angle Calculator\\Angle_Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KitKat\\Desktop\\REIZ Tech\\REIZ Tech.csproj": {
+    "C:\\Users\\KitKat\\Desktop\\REIZ Tech\\Angle Calculator\\Angle_Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KitKat\\Desktop\\REIZ Tech\\REIZ Tech.csproj",
-        "projectName": "REIZ Tech",
-        "projectPath": "C:\\Users\\KitKat\\Desktop\\REIZ Tech\\REIZ Tech.csproj",
+        "projectUniqueName": "C:\\Users\\KitKat\\Desktop\\REIZ Tech\\Angle Calculator\\Angle_Calculator.csproj",
+        "projectName": "Angle_Calculator",
+        "projectPath": "C:\\Users\\KitKat\\Desktop\\REIZ Tech\\Angle Calculator\\Angle_Calculator.csproj",
         "packagesPath": "C:\\Users\\KitKat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KitKat\\Desktop\\REIZ Tech\\obj\\",
+        "outputPath": "C:\\Users\\KitKat\\Desktop\\REIZ Tech\\Angle Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KitKat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

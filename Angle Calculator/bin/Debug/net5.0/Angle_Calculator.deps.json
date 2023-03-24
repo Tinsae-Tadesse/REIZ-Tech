@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "REIZ Tech/1.0.0": {
+      "Angle_Calculator/1.0.0": {
         "runtime": {
-          "REIZ Tech.dll": {}
+          "Angle_Calculator.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "REIZ Tech/1.0.0": {
+    "Angle_Calculator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
