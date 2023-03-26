@@ -1,20 +1,20 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v5.0",
+    "name": ".NETCoreApp,Version=v7.0",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v5.0": {
-      "Angle_Calculator/1.0.0": {
+    ".NETCoreApp,Version=v7.0": {
+      "Angle Calculator/1.0.0": {
         "runtime": {
-          "Angle_Calculator.dll": {}
+          "Angle Calculator.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Angle_Calculator/1.0.0": {
+    "Angle Calculator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

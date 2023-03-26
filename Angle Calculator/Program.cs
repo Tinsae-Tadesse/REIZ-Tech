@@ -1,10 +1,8 @@
-﻿using System;
-
-namespace REIZ_Tech
+﻿namespace REIZ_TECH
 {
     class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             // A single cycle (12 hours) move by the hour hand results in a 360 degree round move.
             // Hence, a one hour move of the hour hand will cover 360/12 = 30 degrees an hour. 
@@ -19,13 +17,13 @@ namespace REIZ_Tech
             byte minutes = 0;
 
             // Ask the user to input hour
-            Console.Write("Enter hour (1-12): ");
-            string inputHour = Console.ReadLine();
+            Console.Write("\nEnter hour (1-12): ");
+            string? inputHour = Console.ReadLine();
             if (byte.TryParse(inputHour, out hours) & (hours <= 12 & hours >= 1))
             {
                 // Hour is correct, ask the user to input minutes
                 Console.Write("Enter minutes (0-59): ");
-                string inputMinutes = Console.ReadLine();
+                string? inputMinutes = Console.ReadLine();
                 if (byte.TryParse(inputMinutes, out minutes) & (minutes <= 59 & minutes >= 0))
                 {
                     // Both hour and minute are correct
@@ -40,7 +38,7 @@ namespace REIZ_Tech
                     float remainingDegree = 360 - degreeDifference;
                     // Determine the lesser angle
                     float lesserAngle = degreeDifference < remainingDegree ? degreeDifference:remainingDegree;
-                    Console.WriteLine("The lesser angle between {0} and {1} is {2} degrees.", hours, minutes, lesserAngle);
+                    Console.WriteLine("\nThe lesser angle between {0} and {1} is {2} degrees.", hours, minutes, lesserAngle);
                 }
                 else
                 {
