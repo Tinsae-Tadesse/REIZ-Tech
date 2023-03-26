@@ -4,5 +4,5 @@ This repository contains the following two projects:
 #### Sample Output:
 
 * A C# program that **recursively** builds a tree of branchs and calculates the number of sub-branches that exist on the longest branch tree ([link](https://github.com/Tinsae-Tadesse/REIZ-Tech/blob/master/Branch%20Tree/Program.cs)).
-#### Sample Output:
-![image](https://user-images.githubusercontent.com/62338683/227794489-57059665-84dc-4c91-83a9-59d0b915a19b.png)
+  #### Sample Output:
+  ![image](https://user-images.githubusercontent.com/62338683/227794489-57059665-84dc-4c91-83a9-59d0b915a19b.png)
