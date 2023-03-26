@@ -72,7 +72,7 @@
 
             // Traverse sub-branches under the main branch to calculate depth
             int depth = mainBranch.GetBranchDepth(mainBranch);
-            Console.WriteLine("\nThe branch tree depth is: {0}", depth);
+            Console.WriteLine("\nThe branch tree has a depth of {0} branches.", depth);
         }
     } 
 }
